@@ -1,0 +1,1 @@
+Exercicio de JavaScript que calcula o IMC.
